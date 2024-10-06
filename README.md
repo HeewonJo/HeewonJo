@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--내용 부분-->
+<!--
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp
@@ -26,7 +26,7 @@
   <img src"https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
 </div>
 
-<!--
+
 <br>
 
 <h3 align="center">🛠 Tools</h3>
