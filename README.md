@@ -20,7 +20,5 @@
 
 <div align="center">
   <h3>📬 Contact 📬</h3>
-  <a href="mailto:heewonjo.me@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/heewonjo.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
