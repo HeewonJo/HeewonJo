@@ -10,14 +10,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
-
+<br><br>
 <div align="center">
   <h3>🌱 Currently Studying 🌱</h3>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
-
+<br><br>
 <div align="center">
   <h3>📬 Contact 📬</h3>
     <img src="https://img.shields.io/badge/heewonjo.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
